@@ -1,25 +1,32 @@
-<h1 align="center">Hi, I'm Nasywa 👋 building things end-to-end, one API at a time</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20I'm%20Nasywa%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Backend%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Mobile%20Developer&descSize=18&descAlignY=58" />
+</p>
 
 <p align="center">
-  <b>Backend & Full Stack Developer</b> · Applied B.Sc. in Business Information Systems<br/>
-  BNSP-Certified Junior Mobile Developer · Based in East Java, Indonesia 🇮🇩
+  <a href="https://www.linkedin.com/in/salmabilaa">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2D9CDB&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%94%A7;Full+Stack+Developer+%F0%9F%92%BB;Mobile+Developer+%F0%9F%93%B1;I+build+the+whole+thing%2C+end+to+end." />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/salmabilaa"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nsalmasalsabila7@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Salma310&style=for-the-badge&color=2D9CDB&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I like taking a project from *"we need a system for this"* to something people actually use — schema design, API, frontend, and (sometimes) a self-trained ML model, all included. Most of my projects were built for real clients: farmers, F&B brands, and telco infrastructure teams, not just class assignments.
+I'm the person who says "sure, I'll build the API, the app, *and* the mobile version" — and then actually does it. Applied B.Sc. in Business Information Systems, BNSP-Certified Junior Mobile Developer, and someone who genuinely enjoys the moment a system goes from spreadsheet-and-chaos to something people actually rely on.
 
-- 🔭 Currently building production systems with **Laravel**, **Express.js**, and **React Native**
-- 🌱 Sharpening my skills in **API architecture** and **applied computer vision**
-- 🎯 Looking to grow as a **Backend / Full Stack Developer**
-- ⚡ Fun fact: I once trained a CNN model to grade guava quality — and then built the app around it, myself, from scratch
+Most of what's below wasn't built for a grade — it was built for real farmers, real F&B brands, and a real telecom team.
+
+- 🧩 **Backend** → Laravel, Express.js, RESTful APIs, database design that doesn't fall over
+- 🌐 **Full Stack** → React, Vue.js, plus the backend to make it all actually work
+- 📱 **Mobile** → React Native & Flutter apps, from UI to API integration to shipping
+- 🔭 Currently exploring applied computer vision (yes, I trained my own CNN + YOLO model)
+- ⚡ Fun fact: I once collected, cleaned, and labeled a fruit-image dataset myself — then built the mobile app, web app, *and* backend around it
 
 ---
 
@@ -56,13 +63,15 @@ I like taking a project from *"we need a system for this"* to something people a
 
 ### 📌 Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🍈 **Guava Grading System** *(real client)* | End-to-end computer vision system I built solo — collected & annotated the dataset, trained a CNN + YOLO model, then shipped a mobile + web app around it. | React Native · Vue.js · Express.js · Python |
-| 💬 **[Nyam CRM](#)** *(real client)* | Customer relationship management system for an F&B brand — schema design, reporting dashboard, and customer data management. | Laravel · MySQL |
-| 🎓 **[SIMAS Web](https://github.com/Salma310/simas_web)** | Lecturer/HR information system with role-based access for admin & leadership. | Laravel 10 · RESTful API · AdminLTE |
-| 📊 **[SurveyKu](https://github.com/Salma310/project-survey)** | Customer satisfaction survey platform with an admin reporting dashboard. | PHP Native · MySQL |
-| 🛒 **[Point of Sales Web](https://github.com/Salma310/point-of-sales-web)** | POS system with sales, inventory, and user management modules. | Laravel 10 |
+| Project | What it does | Stack | Role |
+|---|---|---|---|
+| 🍈 **Guava Grading System** *(real client)* | End-to-end computer vision system built solo — dataset collection, annotation, CNN + YOLO training, then a full mobile + web app shipped around it. | React Native · Vue.js · Express.js · Python | Full Stack + ML |
+| 📱 **Fruit Grading QC App**, PT Bumiaji Sejahtera *(real client)* | Mobile app with QR-code product traceability, paired with a self-built Python grading model. | React Native · Python | Mobile + ML |
+| 📱 **HR Management App**, IT Department | Flutter app for lecturer activity management, synced in real time with a web-based HRMS. | Flutter · REST API | Mobile |
+| 💬 **Nyam CRM** *(real client)* | CRM system for an F&B brand — schema design, reporting dashboard, customer data management. | Laravel · MySQL | Backend |
+| 🎓 **[SIMAS Web](https://github.com/Salma310/simas_web)** | Lecturer/HR information system with role-based access for admin & leadership. | Laravel 10 · REST API · AdminLTE | Full Stack |
+| 📊 **[SurveyKu](https://github.com/Salma310/project-survey)** | Customer satisfaction survey platform with admin reporting dashboard. | PHP Native · MySQL | Full Stack |
+| 🛒 **[Point of Sales Web](https://github.com/Salma310/point-of-sales-web)** | POS system with sales, inventory, and user management modules. | Laravel 10 | Full Stack |
 
 > Some client/internship projects are under NDA and kept private — happy to walk through the architecture in an interview!
 
@@ -75,8 +84,16 @@ I like taking a project from *"we need a system for this"* to something people a
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salma310&layout=compact&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salma310&hide_border=true" />
+</p>
+
 ---
 
 <p align="center">
   📫 <b>Let's connect:</b> <a href="mailto:nsalmasalsabila7@gmail.com">nsalmasalsabila7@gmail.com</a> · <a href="https://www.linkedin.com/in/salmabilaa">LinkedIn</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </p>
