@@ -67,10 +67,10 @@ Most of what's below wasn't built for a grade — it was built for real farmers,
 |---|---|---|---|
 | 🍈 **Grada Tani** *(real client)* | End-to-end computer vision system built solo — dataset collection, annotation, CNN + YOLO training, then a full mobile + web app shipped around it. | React Native · Vue.js · Express.js · Python | Full Stack + ML |
 | 📱 **Simas App**, IT Department | Flutter app for lecturer activity management, synced in real time with a web-based HRMS. | Flutter · REST API | Mobile |
-| 💬 **Nyam CRM** *(real client)* | CRM system for an F&B brand — schema design, reporting dashboard, customer data management. | Laravel · MySQL | Backend |
+| 💬 **Nyam CRM** *(real client)* | CRM system for an F&B brand — schema design, reporting dashboard, customer data management. | Laravel · MySQL | Full Stack |
 | 🎓 **[SIMAS Web](https://github.com/Salma310/simas_web)** | Lecturer/HR information system with role-based access for admin & leadership. | Laravel 10 · REST API · AdminLTE | Full Stack |
 | 📊 **[SurveyKu](https://github.com/Salma310/project-survey)** | Customer satisfaction survey platform with admin reporting dashboard. | PHP Native · MySQL | Full Stack |
-| 🛒 **[Point of Sales Web](https://github.com/Salma310/point-of-sales-web)** | POS system with sales, inventory, and user management modules. | Laravel 10 | Full Stack |
+| 🛒 **[Point of Sales Web](https://github.com/Salma310/point-of-sales-web)** | POS system with sales, inventory, and user management modules. | Laravel 10 | Backend |
 
 > Some client/internship projects are under NDA and kept private — happy to walk through the architecture in an interview!
 
